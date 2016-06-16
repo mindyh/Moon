@@ -6,14 +6,11 @@ author: Mindy Huang
 layout: post
 permalink: raytracer/
 excerpt: "My final raytracer project for CS148, was ranked #11 out of ~150 projects. (Pretty good for the amount of work I [didn't] put in)."
-categories:
-  - Art
-  - Projects
 tags:
   - art
   - coding
+  - projects
 comments: true
-project: true
 ---
 [See my first post featuring my scanline image!](/scanline-2/)
 

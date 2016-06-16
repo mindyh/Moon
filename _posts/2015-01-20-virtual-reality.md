@@ -6,10 +6,10 @@ author: Mindy Huang
 layout: post
 guid: http://mindyhuang.me/?p=485
 permalink: /virtual-reality/
-categories:
-  - Projects
+tags:
+  - project
+  - virtual reality
 format: aside
-project: true
 comments: true
 ---
 My senior project is with the OCULUS RIFT.  I cannot begin to convey my excitement. Our project is to add a plugin to the Unreal Engine to support content creation for VR, while in VR. Think, Tony Stark. The heart of the project lies in finding a good control scheme, as there is no standard UX for this medium yet.

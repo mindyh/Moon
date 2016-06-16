@@ -6,15 +6,9 @@ author: Mindy Huang
 layout: post
 guid: http://mindyhuang.me/?p=475
 permalink: tetrisbot/
-categories:
-
-- Projects
 tags:
-
-- hardware
-
-- robotics
-project: true
+  - hardware
+  - robotics
 comments: true
 ---
 This past quarter, I took a class called Experimental Robotics and finally got hands on with an industrial robot. I&#8217;d learned the theory beforehand in the pre-requisite class, but working with an actual robot definitely solidified my understanding of the topic. (Control theory makes sense now!)

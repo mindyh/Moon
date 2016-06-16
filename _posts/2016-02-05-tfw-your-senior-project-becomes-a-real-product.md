@@ -6,10 +6,9 @@ author: Mindy Huang
 layout: post
 guid: http://mindyhuang.me/?p=550
 permalink: tfw-your-senior-project-becomes-a-real-product/
-categories:
-  - Life
 tags:
   - virtual reality
+  - life
 comments: true
 ---
 So Epic Games totally just released their version of [my senior project.](http://mindyhuang.me/unrealvr/#more-493) Check it out.

@@ -10,7 +10,7 @@ categories:
   - Projects
 tags:
   - cosplay
-project: true
+  - projects
 comments: true
 ---
 Remember 4 months ago when I said I wanted to do a cosplay? Well I have a bad habit of brainstorming projects but not actually doing them. This time though, this time it actually happened.

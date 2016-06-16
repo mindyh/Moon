@@ -6,14 +6,12 @@ author: Mindy Huang
 layout: post
 guid: http://mindyhuang.me/?p=248
 permalink: /introduction-to-mechatronics/
-categories:
-  - Projects
 tags:
   - robotics
-  - hardware
+  - project
+  - coding
 format: video
 comments: true
-project: true
 ---
 This quarter I took a class ME210 &#8211; Introduction to Mechatronics. It was essentially a 7 week crash-course on all the basic electronics needed to build a simple robot, and then 3 weeks of actually building a robot to compete. An introduction to this year&#8217;s game, Botcoin Bonanza, is in the video below (check out my/my robot&#8217;s cameo at 0:40):
 

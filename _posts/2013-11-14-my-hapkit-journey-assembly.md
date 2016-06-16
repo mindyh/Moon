@@ -4,14 +4,12 @@ title: 'My Hapkit Journey &#8211; Assembly'
 date: 2013-11-14T19:42:10+00:00
 author: Mindy Huang
 layout: post
-project: true
 permalink: my-hapkit-journey-assembly/
-categories:
-  - Projects
 tags:
   - haptics
-  - hardware
-project: true
+  - hapkit
+  - project
+  - coding
 comments: true
 ---
 This quarter at school has been fairly theoretical, full of linear algebra and math theory. I don&#8217;t dislike it &#8211; just the opposite, I find machine learning quite fascinating &#8211; but I&#8217;ve been itching to get my hands on some hardware and play.

@@ -6,8 +6,8 @@ author: Mindy Huang
 layout: post
 guid: http://mindyhuang.me/?p=284
 permalink: biking-to-work/
-categories:
-  - Life
+tags:
+  - life
 format: aside
 comments: true
 ---

@@ -6,13 +6,12 @@ author: Mindy Huang
 layout: post
 guid: http://mindyhuang.me/blog/?p=82
 permalink: /my-hapkit-journey-virtual-environments/
-categories:
-  - Projects
 tags:
   - haptics
-  - hardware
+  - project
+  - hapkit
+  - coding
 comments: true
-project: true
 ---
 The last two weeks of the course were all about virtual environments. This is also where I really geeked out. Basically my friends were subjected to me going &#8220;Lookit! Touchit! It feels like a button OMG.&#8221;
 

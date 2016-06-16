@@ -4,10 +4,10 @@ title: create:space and 3D printing
 date: 2014-07-04T02:16:57+00:00
 author: Mindy Huang
 layout: post
-categories:
-  - Life
+tags:
+  - 3D printing
 comments: true
-project: true
+
 ---
 If you&#8217;ve read my other post, you&#8217;ll know that this summer my side project is to [make a cosplay](http://mindyhuang.me/2014/06/09/cosplay/ "Cosplay???"). More generally, my project is just learning how to Make things.
 

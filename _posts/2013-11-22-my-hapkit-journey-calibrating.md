@@ -6,13 +6,12 @@ author: Mindy Huang
 layout: post
 guid: http://mindyhuang.me/blog/?p=55
 permalink: /my-hapkit-journey-calibrating/
-categories:
-  - Projects
 tags:
   - haptics
-  - hardware
+  - project
+  - hapkit
+  - coding
 comments: true
-project: true
 ---
 This week, the lab consisted of calibrating the sensors and outputting a specified force. It as the first time we got to program the board. And as a software person, it was very exciting. Getting to learn Arduino was one of the main reasons I decided to take this course.
 

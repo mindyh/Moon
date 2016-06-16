@@ -6,12 +6,12 @@ author: Mindy Huang
 layout: post
 guid: http://mindyhuang.me/?p=317
 permalink: /experimental-haptics-rage-quit/
-categories:
-  - Projects
 tags:
   - haptics
+  - project
+  - coding
 comments: true
-project: true
+
 ---
 A while ago, I built and programmed a [Haptic Paddle](http://mindyhuang.me/2013/11/14/my-hapkit-journey-assembly/ "My Hapkit Journey – Assembly"). I enjoyed it, and so this quarter I decided to take Experimental Haptics. It was led by a grad student who invented the [Novint Falcon](http://www.novint.com/index.php/novintfalcon "novint falcon"), low-end, 3-DOF haptic device. This was also the device we used for all our homework assignments and projects.
 
