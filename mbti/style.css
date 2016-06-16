@@ -1,3 +1,6 @@
+  
+
+
 /* clearfix */
 /* clearfix to fix floats */		
 .clearfix:after {
@@ -138,6 +141,7 @@ div#choose > div {
 	text-align: center;
 }
 
+
 /* buttons */
 div.button {
 	width: 50px;
@@ -277,7 +281,7 @@ div#theory {
 /* functions */
 #functions {
 	width: 60%;
-	padding: 10px 20px;
+	padding: functionsPadding;
 	float: left;
 }
 
@@ -330,6 +334,7 @@ div#theory {
 	
 }
 
+ 
 .function {
 	width: 70px;
 	height: 70px;
