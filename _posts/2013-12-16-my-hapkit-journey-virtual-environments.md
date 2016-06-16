@@ -8,8 +8,7 @@ guid: http://mindyhuang.me/blog/?p=82
 permalink: /my-hapkit-journey-virtual-environments/
 tags:
   - haptics
-  - project
-  - hapkit
+  - projects
   - coding
 comments: true
 ---

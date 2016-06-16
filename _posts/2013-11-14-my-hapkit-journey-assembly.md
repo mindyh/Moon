@@ -7,8 +7,7 @@ layout: post
 permalink: my-hapkit-journey-assembly/
 tags:
   - haptics
-  - hapkit
-  - project
+  - projects
   - coding
 comments: true
 ---

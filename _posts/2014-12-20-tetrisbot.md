@@ -7,7 +7,6 @@ layout: post
 guid: http://mindyhuang.me/?p=475
 permalink: tetrisbot/
 tags:
-  - hardware
   - robotics
 comments: true
 ---

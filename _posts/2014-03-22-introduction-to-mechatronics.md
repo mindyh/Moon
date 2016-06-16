@@ -8,7 +8,7 @@ guid: http://mindyhuang.me/?p=248
 permalink: /introduction-to-mechatronics/
 tags:
   - robotics
-  - project
+  - projects
   - coding
 format: video
 comments: true

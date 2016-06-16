@@ -8,8 +8,7 @@ guid: http://mindyhuang.me/blog/?p=55
 permalink: /my-hapkit-journey-calibrating/
 tags:
   - haptics
-  - project
-  - hapkit
+  - projects
   - coding
 comments: true
 ---

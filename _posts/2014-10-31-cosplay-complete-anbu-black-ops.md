@@ -6,8 +6,6 @@ author: Mindy Huang
 layout: post
 guid: http://mindyhuang.me/?p=431
 permalink: cosplay-complete-anbu-black-ops/
-categories:
-  - Projects
 tags:
   - cosplay
   - projects

@@ -7,7 +7,7 @@ layout: post
 guid: http://mindyhuang.me/?p=485
 permalink: /virtual-reality/
 tags:
-  - project
+  - projects
   - virtual reality
 format: aside
 comments: true

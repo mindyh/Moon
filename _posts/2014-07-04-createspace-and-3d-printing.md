@@ -6,8 +6,8 @@ author: Mindy Huang
 layout: post
 tags:
   - 3D printing
+  - projects
 comments: true
-
 ---
 If you&#8217;ve read my other post, you&#8217;ll know that this summer my side project is to [make a cosplay](http://mindyhuang.me/2014/06/09/cosplay/ "Cosplay???"). More generally, my project is just learning how to Make things.
 
