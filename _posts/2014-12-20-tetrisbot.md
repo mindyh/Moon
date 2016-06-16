@@ -5,13 +5,13 @@ date: 2014-12-20T23:22:52+00:00
 author: Mindy Huang
 layout: post
 guid: http://mindyhuang.com/?p=475
-permalink: /tetrisbot/
+permalink: tetrisbot/
 categories:
   - Projects
-comments: true
 project: true
+comments: true
 ---
-This past quarter, I took a class called Experimental Robotics and finally got hands on with an industrial robot. I&#8217;d learned the theory beforehand in the pre-requisite class, but working with an actual robot definitely solidified my understanding of the topic. (Control theory makes sense now!)<!--more-->
+This past quarter, I took a class called Experimental Robotics and finally got hands on with an industrial robot. I&#8217;d learned the theory beforehand in the pre-requisite class, but working with an actual robot definitely solidified my understanding of the topic. (Control theory makes sense now!)
 
 You can see all of our code [on GitHub.](https://github.com/sgibbs409/tetrisbot)
 

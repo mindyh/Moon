@@ -1,3 +1,4 @@
+comments: true
 ---
 id: 431
 title: 'Cosplay Complete &#8211; ANBU Black Ops'
@@ -5,15 +6,14 @@ date: 2014-10-31T21:07:44+00:00
 author: Mindy Huang
 layout: post
 guid: http://mindyhuang.com/?p=431
-permalink: /cosplay-complete-anbu-black-ops/
+permalink: cosplay-complete-anbu-black-ops/
 categories:
   - Projects
 comments: true
 project: true
+comments: true
 ---
 Remember 4 months ago when I said I wanted to do a cosplay? Well I have a bad habit of brainstorming projects but not actually doing them. This time though, this time it actually happened.
-
-<!--more-->
 
 [gmedia id=25]
 

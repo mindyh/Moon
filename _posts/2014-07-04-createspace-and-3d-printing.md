@@ -4,28 +4,14 @@ title: create:space and 3D printing
 date: 2014-07-04T02:16:57+00:00
 author: Mindy Huang
 layout: post
-guid: http://mindyhuang.com/?p=266
-permalink: /createspace-and-3d-printing/
 categories:
   - Life
-format: chat
+comments: true
+project: true
 ---
 If you&#8217;ve read my other post, you&#8217;ll know that this summer my side project is to [make a cosplay](http://mindyhuang.com/2014/06/09/cosplay/ "Cosplay???"). More generally, my project is just learning how to make things.
 
 It was a sort of vague and general idea in my head, until I found out about
-
-<!--more-->
-
-the Garage &#8211; Google&#8217;s very own makerspace! They have CNC machines, sewing/embroidery machines, 3D printers, laser cutters &#8211; you name it, they have it. Now, I&#8217;m on a mission to learn how to use ALL of the machines. I even persuaded my team to let me use a laser cutter for one of my intern projects >:D. That cosplay is SO happening.
-
-Well, today is Fourth of July Eve, which apparently is considered a holiday at Google. I decided to go into the office anyways, but not to work &#8211; to learn how to use the 3D printer.
-
-I was all set to go to work on a holiday, when I recalled that Stanford also had a free 3D printer somewhere. After poking around a bit, I found the [If you&#8217;ve read my other post, you&#8217;ll know that this summer my side project is to [make a cosplay](http://mindyhuang.com/2014/06/09/cosplay/ "Cosplay???"). More generally, my project is just learning how to make things.
-
-It was a sort of vague and general idea in my head, until I found out about
-
-<!--more-->
-
 the Garage &#8211; Google&#8217;s very own makerspace! They have CNC machines, sewing/embroidery machines, 3D printers, laser cutters &#8211; you name it, they have it. Now, I&#8217;m on a mission to learn how to use ALL of the machines. I even persuaded my team to let me use a laser cutter for one of my intern projects >:D. That cosplay is SO happening.
 
 Well, today is Fourth of July Eve, which apparently is considered a holiday at Google. I decided to go into the office anyways, but not to work &#8211; to learn how to use the 3D printer.

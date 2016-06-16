@@ -8,5 +8,6 @@ guid: http://mindyhuang.com/blog/?p=1
 permalink: /hello-world/
 categories:
   - Uncategorized
+comments: true
 ---
 Welcome to my blog. It will be updated as the muse hits me.

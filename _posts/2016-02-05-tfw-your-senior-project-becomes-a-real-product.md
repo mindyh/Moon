@@ -5,7 +5,7 @@ date: 2016-02-05T06:47:55+00:00
 author: Mindy Huang
 layout: post
 guid: http://mindyhuang.com/?p=550
-permalink: /tfw-your-senior-project-becomes-a-real-product/
+permalink: tfw-your-senior-project-becomes-a-real-product/
 categories:
   - Life
 tags:

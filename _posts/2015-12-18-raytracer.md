@@ -4,13 +4,14 @@ title: 'Graphics Pt. 2 &#8211; Raytracer'
 date: 2015-12-18T06:36:27+00:00
 author: Mindy Huang
 layout: post
-guid: http://mindyhuang.com/?p=538
-permalink: /raytracer/
+permalink: raytracer/
+excerpt: "My final raytracer project for CS148, was ranked #11 out of ~150 projects. (Pretty good for the amount of work I [didn't] put in)."
 comments: true
 project: true
 categories:
   - Art
   - Projects
+comments: true
 ---
 [See my first post featuring my scanline image!](http://mindyhuang.com/scanline-2/)
 

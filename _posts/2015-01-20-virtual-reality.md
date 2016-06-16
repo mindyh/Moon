@@ -9,8 +9,8 @@ permalink: /virtual-reality/
 categories:
   - Projects
 format: aside
-comments: true
 project: true
+comments: true
 ---
 My senior project is with the OCULUS RIFT.  I cannot begin to convey my excitement. Our project is to add a plugin to the Unreal Engine to support content creation for VR, while in VR. Think, Tony Stark. The heart of the project lies in finding a good control scheme, as there is no standard UX for this medium yet.
 
