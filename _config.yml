@@ -4,7 +4,7 @@ bio:                'Roboticist, artist, martial artist.'
 description:        "My projects and musings blog. AKA stories from my [un]professional life."
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/self-portrait.jpg'
+logo:               'assets/img/self-portrait.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
