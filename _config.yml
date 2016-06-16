@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+title:              Mindy Huang
+bio:                'Roboticist, artist, martial artist.'
+description:        "My projects and musings blog. AKA stories from my [un]professional life."
+reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/self-portrait.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://taylantatli.me/Moon
+url:                http://mindyhuang.me/
 
 # Jekyll
 permalink:          /:title/
@@ -26,30 +26,30 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   mindyh
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:        UA-46269179-2
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+# twitter:            username
+# facebook:           username
+github:             mindyh
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           mindyh
 #xing:              username
-instagram:          username
+instagram:          kchuangart
 #lastfm:            username
-#tumblr:            username
+tumblr:             kchuangart
 #pinterest:         username
 #foursquare:        username
-steam:              username
+# steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
