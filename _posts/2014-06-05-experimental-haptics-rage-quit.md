@@ -4,16 +4,18 @@ title: 'Experimental Haptics: Rage Quit'
 date: 2014-06-05T23:55:17+00:00
 author: Mindy Huang
 layout: post
-guid: http://mindyhuang.com/?p=317
+guid: http://mindyhuang.me/?p=317
 permalink: /experimental-haptics-rage-quit/
 categories:
   - Projects
+tags:
+  - haptics
 comments: true
 project: true
 ---
-A while ago, I built and programmed a [Haptic Paddle](http://mindyhuang.com/2013/11/14/my-hapkit-journey-assembly/ "My Hapkit Journey – Assembly"). I enjoyed it, and so this quarter I decided to take Experimental Haptics. It was led by a grad student who invented the [Novint Falcon](http://www.novint.com/index.php/novintfalcon "novint falcon"), low-end, 3-DOF haptic device. This was also the device we used for all our homework assignments and projects.
+A while ago, I built and programmed a [Haptic Paddle](http://mindyhuang.me/2013/11/14/my-hapkit-journey-assembly/ "My Hapkit Journey – Assembly"). I enjoyed it, and so this quarter I decided to take Experimental Haptics. It was led by a grad student who invented the [Novint Falcon](http://www.novint.com/index.php/novintfalcon "novint falcon"), low-end, 3-DOF haptic device. This was also the device we used for all our homework assignments and projects.
 
-<!--more--><figure style="width: 346px" class="wp-caption aligncenter">
+<figure style="width: 346px" class="wp-caption aligncenter">
 
 <img src="http://www.novint.com/images/stories/Novint_rendering_full3.jpg" alt="Novint Falcon" width="346" height="224" /><figcaption class="wp-caption-text">Novint Falcon</figcaption></figure> 
 

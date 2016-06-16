@@ -4,10 +4,13 @@ title: TetrisBot
 date: 2014-12-20T23:22:52+00:00
 author: Mindy Huang
 layout: post
-guid: http://mindyhuang.com/?p=475
+guid: http://mindyhuang.me/?p=475
 permalink: tetrisbot/
 categories:
   - Projects
+tags:
+  - hardware
+  - robotics
 project: true
 comments: true
 ---
@@ -91,7 +94,7 @@ We thought it would be interesting to use a robot to turn a normally 2D game int
           End-effector
         </h3><figure id="attachment_439" style="width: 960px" class="wp-caption alignright">
         
-        <img class="wp-image-439 size-full" src="http://mindyhuang.com/wp-content/uploads/endeffector.jpeg" alt="endeffector" width="960" height="720" srcset="http://mindyhuang.com/wp-content/uploads/endeffector-300x225.jpeg 300w, http://mindyhuang.com/wp-content/uploads/endeffector.jpeg 960w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption class="wp-caption-text">Our magnetic end-effector in action. It&#8217;s very strong.</figcaption></figure> 
+        <img class="wp-image-439 size-full" src="http://mindyhuang.me/wp-content/uploads/endeffector.jpeg" alt="endeffector" width="960" height="720" srcset="http://mindyhuang.me/wp-content/uploads/endeffector-300x225.jpeg 300w, http://mindyhuang.me/wp-content/uploads/endeffector.jpeg 960w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption class="wp-caption-text">Our magnetic end-effector in action. It&#8217;s very strong.</figcaption></figure> 
         
         <p>
           Our end-effector is an electromagnet, controlled by wireless radio receiver. We send it commands via a USB dongle &#8211; &#8216;a&#8217; to turn the magnet on and &#8216;b&#8217; to turn it off. The end-effector draws about 300mA of current, and is powered by four 9V batteries. We taped a thin sheet of steel to each piece of the tetromino blocks for electromagnet to attach to.
@@ -105,7 +108,7 @@ We thought it would be interesting to use a robot to turn a normally 2D game int
           A tetromino is a block in the Tetris game (for example, a line block or a square block). As our project is real-life tetris, we need to build real-life tetrominos. After some discussion, we decided on making them out of acrylic. We lasercut them, and the original plan was to assemble them into 3D blocks.
         </p><figure id="attachment_456" style="width: 300px" class="wp-caption alignnone">
         
-        <img class="wp-image-456 size-medium" src="http://mindyhuang.com/wp-content/uploads/tetrimino_plan-300x206.png" alt="tetrimino_plan" width="300" height="206" srcset="http://mindyhuang.com/wp-content/uploads/tetrimino_plan-150x103.png 150w, http://mindyhuang.com/wp-content/uploads/tetrimino_plan-300x206.png 300w, http://mindyhuang.com/wp-content/uploads/tetrimino_plan-1024x703.png 1024w, http://mindyhuang.com/wp-content/uploads/tetrimino_plan.png 1158w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">The original idea for 3D tetrominos.</figcaption></figure> <figure id="attachment_458" style="width: 169px" class="wp-caption alignnone"><img class="wp-image-458 size-medium" src="http://mindyhuang.com/wp-content/uploads/threeDblocks-169x300.jpg" alt="threeDblocks" width="169" height="300" /><figcaption class="wp-caption-text">The two 3D tetrominos made before the idea was scrapped.</figcaption></figure> <figure id="attachment_437" style="width: 300px" class="wp-caption alignnone"><img class="wp-image-437 size-medium" src="http://mindyhuang.com/wp-content/uploads/block_assembly-300x169.jpg" alt="block_assembly" width="300" height="169" /><figcaption class="wp-caption-text">Block assembly, the night before the project was due. Ralph and Spencer, the other two members of my team.</figcaption></figure> 
+        <img class="wp-image-456 size-medium" src="http://mindyhuang.me/wp-content/uploads/tetrimino_plan-300x206.png" alt="tetrimino_plan" width="300" height="206" srcset="http://mindyhuang.me/wp-content/uploads/tetrimino_plan-150x103.png 150w, http://mindyhuang.me/wp-content/uploads/tetrimino_plan-300x206.png 300w, http://mindyhuang.me/wp-content/uploads/tetrimino_plan-1024x703.png 1024w, http://mindyhuang.me/wp-content/uploads/tetrimino_plan.png 1158w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">The original idea for 3D tetrominos.</figcaption></figure> <figure id="attachment_458" style="width: 169px" class="wp-caption alignnone"><img class="wp-image-458 size-medium" src="http://mindyhuang.me/wp-content/uploads/threeDblocks-169x300.jpg" alt="threeDblocks" width="169" height="300" /><figcaption class="wp-caption-text">The two 3D tetrominos made before the idea was scrapped.</figcaption></figure> <figure id="attachment_437" style="width: 300px" class="wp-caption alignnone"><img class="wp-image-437 size-medium" src="http://mindyhuang.me/wp-content/uploads/block_assembly-300x169.jpg" alt="block_assembly" width="300" height="169" /><figcaption class="wp-caption-text">Block assembly, the night before the project was due. Ralph and Spencer, the other two members of my team.</figcaption></figure> 
         
         <p>
           However, testing with the end-effector showed us that the 3-D blocks we wanted were too heavy for the electromagnet to hold up reliably. Therefore, we made a last-minute adjustment and instead decided to have 2-D blocks, which would be significantly lighter.
@@ -145,7 +148,7 @@ We thought it would be interesting to use a robot to turn a normally 2D game int
                   Picking up Blocks
                 </h3><figure id="attachment_451" style="width: 474px" class="wp-caption alignleft">
                 
-                <img class="wp-image-451 size-large" src="http://mindyhuang.com/wp-content/uploads/pickup1-768x1024.jpg" alt="pickup1" width="474" height="632" srcset="http://mindyhuang.com/wp-content/uploads/pickup1-225x300.jpg 225w, http://mindyhuang.com/wp-content/uploads/pickup1-768x1024.jpg 768w" sizes="(max-width: 474px) 100vw, 474px" /><figcaption class="wp-caption-text">Coupling between the joints made picking up pieces harder than we anticipated. We made sure to use an extra compliant surface.</figcaption></figure> 
+                <img class="wp-image-451 size-large" src="http://mindyhuang.me/wp-content/uploads/pickup1-768x1024.jpg" alt="pickup1" width="474" height="632" srcset="http://mindyhuang.me/wp-content/uploads/pickup1-225x300.jpg 225w, http://mindyhuang.me/wp-content/uploads/pickup1-768x1024.jpg 768w" sizes="(max-width: 474px) 100vw, 474px" /><figcaption class="wp-caption-text">Coupling between the joints made picking up pieces harder than we anticipated. We made sure to use an extra compliant surface.</figcaption></figure> 
                 
                 <p>
                   We kept each tetromino shape in a separate stack, and recorded the location of the stacks before running the robot, so that the robot would know where each type of block was.
@@ -179,7 +182,7 @@ We thought it would be interesting to use a robot to turn a normally 2D game int
                   Placing blocks
                 </h3><figure id="attachment_441" style="width: 474px" class="wp-caption alignleft">
                 
-                <img class="wp-image-441 size-large" src="http://mindyhuang.com/wp-content/uploads/pane-768x1024.jpg" alt="pane" width="474" height="632" srcset="http://mindyhuang.com/wp-content/uploads/pane-225x300.jpg 225w, http://mindyhuang.com/wp-content/uploads/pane-768x1024.jpg 768w" sizes="(max-width: 474px) 100vw, 474px" /><figcaption class="wp-caption-text">Gameboard. We found and built it the morning the project was due.</figcaption></figure> 
+                <img class="wp-image-441 size-large" src="http://mindyhuang.me/wp-content/uploads/pane-768x1024.jpg" alt="pane" width="474" height="632" srcset="http://mindyhuang.me/wp-content/uploads/pane-225x300.jpg 225w, http://mindyhuang.me/wp-content/uploads/pane-768x1024.jpg 768w" sizes="(max-width: 474px) 100vw, 474px" /><figcaption class="wp-caption-text">Gameboard. We found and built it the morning the project was due.</figcaption></figure> 
                 
                 <div class="row clearfix">
                   <p>
@@ -195,7 +198,7 @@ We thought it would be interesting to use a robot to turn a normally 2D game int
                   In class, we learned about the theory of working with a robot. Through this project, we applied these concepts to a real-life industrial arm. We gained valuable experience addressing compliance issues, recognizing potential singularities, and simply dealing with a real robot. Given the time, we would have liked to add in some computer vision, so that the robot could recognize which piece it was picking up (to avoid needing to calibrate beforehand), and so that the robot could see its current position on the gameboard (instead of blindly following pre-calibrated coordinates). And most importantly, we spent hours of class time playing tetris.
                 </p><figure id="attachment_440" style="width: 474px" class="wp-caption alignleft">
                 
-                <img class="wp-image-440 size-large" src="http://mindyhuang.com/wp-content/uploads/mindy_robot1-768x1024.jpg" alt="mindy_robot" width="474" height="632" srcset="http://mindyhuang.com/wp-content/uploads/mindy_robot1-225x300.jpg 225w, http://mindyhuang.com/wp-content/uploads/mindy_robot1-768x1024.jpg 768w" sizes="(max-width: 474px) 100vw, 474px" /><figcaption class="wp-caption-text">Me, attaching the end-effector.</figcaption></figure> 
+                <img class="wp-image-440 size-large" src="http://mindyhuang.me/wp-content/uploads/mindy_robot1-768x1024.jpg" alt="mindy_robot" width="474" height="632" srcset="http://mindyhuang.me/wp-content/uploads/mindy_robot1-225x300.jpg 225w, http://mindyhuang.me/wp-content/uploads/mindy_robot1-768x1024.jpg 768w" sizes="(max-width: 474px) 100vw, 474px" /><figcaption class="wp-caption-text">Me, attaching the end-effector.</figcaption></figure> 
                 
                 <p>
                   &nbsp;

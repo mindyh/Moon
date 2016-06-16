@@ -4,7 +4,7 @@ title: Virtual Reality
 date: 2015-01-20T18:12:23+00:00
 author: Mindy Huang
 layout: post
-guid: http://mindyhuang.com/?p=485
+guid: http://mindyhuang.me/?p=485
 permalink: /virtual-reality/
 categories:
   - Projects

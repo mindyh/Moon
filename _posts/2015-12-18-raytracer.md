@@ -6,22 +6,22 @@ author: Mindy Huang
 layout: post
 permalink: raytracer/
 excerpt: "My final raytracer project for CS148, was ranked #11 out of ~150 projects. (Pretty good for the amount of work I [didn't] put in)."
-comments: true
-project: true
 categories:
   - Art
   - Projects
+tags:
+  - art
+  - coding
 comments: true
+project: true
 ---
-[See my first post featuring my scanline image!](http://mindyhuang.com/scanline-2/)
+[See my first post featuring my scanline image!](http://mindyhuang.me/scanline-2/)
 
 I never was terribly interested in graphics but needed this course for my degree. I came out of it with one of highest grades I&#8217;ve ever gotten in a CS class (they graded partially on aesthetics and I probably have an unfair advantage in that area) and the conclusion that I am far more interested in the math underlying graphics simulations than I am in actually creating art with it. (read: I don&#8217;t ever want to touch Autodesk Maya and 3DS Max again, there are far easier ways to create art @_@)
 
-<!--more-->
-
 #### An LA Christmas<figure id="attachment_539" style="width: 474px" class="wp-caption alignnone">
 
-[<img class="wp-image-539 size-large" src="http://mindyhuang.com/wp-content/uploads/final-1-1024x582.png" alt="My raytracer project for CS148 - Intro to Graphics." width="474" height="269" srcset="http://mindyhuang.com/wp-content/uploads/final-1-150x85.png 150w, http://mindyhuang.com/wp-content/uploads/final-1-1024x582.png 1024w" sizes="(max-width: 474px) 100vw, 474px" />](http://mindyhuang.com/wp-content/uploads/final-1.png)<figcaption class="wp-caption-text">My raytracer project for CS148 &#8211; Intro to Graphics. Click for full-size!</figcaption></figure> 
+[<img class="wp-image-539 size-large" src="http://mindyhuang.me/wp-content/uploads/final-1-1024x582.png" alt="My raytracer project for CS148 - Intro to Graphics." width="474" height="269" srcset="http://mindyhuang.me/wp-content/uploads/final-1-150x85.png 150w, http://mindyhuang.me/wp-content/uploads/final-1-1024x582.png 1024w" sizes="(max-width: 474px) 100vw, 474px" />](http://mindyhuang.me/wp-content/uploads/final-1.png)<figcaption class="wp-caption-text">My raytracer project for CS148 &#8211; Intro to Graphics. Click for full-size!</figcaption></figure> 
 
 **Inspiration**
 

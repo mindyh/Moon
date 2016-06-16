@@ -4,7 +4,7 @@ title: Biking to work
 date: 2014-07-03T20:43:54+00:00
 author: Mindy Huang
 layout: post
-guid: http://mindyhuang.com/?p=284
+guid: http://mindyhuang.me/?p=284
 permalink: biking-to-work/
 categories:
   - Life

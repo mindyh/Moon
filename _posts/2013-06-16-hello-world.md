@@ -4,7 +4,7 @@ title: Hello world!
 date: 2013-06-16T06:31:02+00:00
 author: Mindy Huang
 layout: post
-guid: http://mindyhuang.com/blog/?p=1
+guid: http://mindyhuang.me/blog/?p=1
 permalink: /hello-world/
 categories:
   - Uncategorized

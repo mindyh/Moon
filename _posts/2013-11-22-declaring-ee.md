@@ -4,7 +4,7 @@ title: Declaring EE
 date: 2013-11-22T08:14:29+00:00
 author: Mindy Huang
 layout: post
-guid: http://mindyhuang.com/blog/?p=66
+guid: http://mindyhuang.me/blog/?p=66
 permalink: /declaring-ee/
 categories:
   - Life

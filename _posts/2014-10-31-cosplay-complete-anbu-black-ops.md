@@ -1,15 +1,15 @@
-comments: true
 ---
 id: 431
 title: 'Cosplay Complete &#8211; ANBU Black Ops'
 date: 2014-10-31T21:07:44+00:00
 author: Mindy Huang
 layout: post
-guid: http://mindyhuang.com/?p=431
+guid: http://mindyhuang.me/?p=431
 permalink: cosplay-complete-anbu-black-ops/
 categories:
   - Projects
-comments: true
+tags:
+  - cosplay
 project: true
 comments: true
 ---
@@ -31,13 +31,13 @@ In case you&#8217;re curious and/or need pointers like I did:
 
   * Mask was made with a standard plastic halloween mask with Crayola Model Magic on top. (I only used one 4oz bag) Sealed with white acrylic paint which gave it the shiny look and decorated with red and black paint.
 
-<img class="alignnone wp-image-460 size-large" src="http://mindyhuang.com/wp-content/uploads/IMAG1110-1024x579.jpg" alt="IMAG1110" width="474" height="268" />
+<img class="alignnone wp-image-460 size-large" src="http://mindyhuang.me/wp-content/uploads/IMAG1110-1024x579.jpg" alt="IMAG1110" width="474" height="268" />
 
-<img class="alignnone wp-image-461 size-large" src="http://mindyhuang.com/wp-content/uploads/IMAG1116-1024x579.jpg" alt="IMAG1116" width="474" height="268" />
+<img class="alignnone wp-image-461 size-large" src="http://mindyhuang.me/wp-content/uploads/IMAG1116-1024x579.jpg" alt="IMAG1116" width="474" height="268" />
 
   * Sandals were made by buying cheap pleather boots from Amazon, cutting out the toes, and covering it all with more pleather to achieve the look.
   * Gloves were bought and painted with black acrylic paint to remove the glossiness.
-  * Vest &#8211; tailor made by me! Added batting and foam inside so it looks as thick as is does in the show<img class="alignnone wp-image-463 size-large" src="http://mindyhuang.com/wp-content/uploads/IMG_20140827_174242_nopm_-e1420583048313-1024x579.jpg" alt="IMG_20140827_174242_nopm_" width="474" height="268" />
+  * Vest &#8211; tailor made by me! Added batting and foam inside so it looks as thick as is does in the show<img class="alignnone wp-image-463 size-large" src="http://mindyhuang.me/wp-content/uploads/IMG_20140827_174242_nopm_-e1420583048313-1024x579.jpg" alt="IMG_20140827_174242_nopm_" width="474" height="268" />
 
   * Pants were cargo pants bought off of Amazon.
   * Bandages were made by cutting up old t-shirts.
