@@ -1,7 +1,7 @@
 ---
 title: My Art
 author: Mindy Huang
-layout: projects
+layout: page
 comments: false
 tags: [art]
 ---
