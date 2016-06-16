@@ -7,8 +7,17 @@ tags: [art]
 ---
 I am a student artist, self-studying hard to get a little bit better.
 
+#### Follow my progress:
+
+* [deviantArt](kchuang.deviantart.com)
+* [Instagram](kchuangart.instagram.com)
+* [tumblr](kchuangart.tumblr.com)
+* [Twitter](kchuangart.twitter.com)
+
+&nbsp;
+
 <!-- Instagram feed. -->
-<div class="ig-root Ri8536 clearfix" style="width=auto"> </div>
+<div class="ig-root Ri8536 clearfix"> </div>
 <script>
  scripts=[];
  host='http://www.uptsi.com';
@@ -18,11 +27,5 @@ I am a student artist, self-studying hard to get a little bit better.
  for(i=0;i< scripts.length; i++){document.getElementsByTagName("HEAD")[0].appendChild(scripts[i]); }
 </script>
 
-
-Follow my progress:
-
-* [deviantArt](kchuang.deviantart.com)
-* [Instagram](kchuangart.instagram.com)
-* [tumblr](kchuangart.tumblr.com)
-* [Twitter](kchuangart.twitter.com)
+&nbsp;
 
