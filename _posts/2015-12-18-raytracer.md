@@ -15,13 +15,16 @@ tags:
 comments: true
 project: true
 ---
-[See my first post featuring my scanline image!](http://mindyhuang.me/scanline-2/)
+[See my first post featuring my scanline image!](/scanline-2/)
 
 I never was terribly interested in graphics but needed this course for my degree. I came out of it with one of highest grades I&#8217;ve ever gotten in a CS class (they graded partially on aesthetics and I probably have an unfair advantage in that area) and the conclusion that I am far more interested in the math underlying graphics simulations than I am in actually creating art with it. (read: I don&#8217;t ever want to touch Autodesk Maya and 3DS Max again, there are far easier ways to create art @_@)
 
-#### An LA Christmas<figure id="attachment_539" style="width: 474px" class="wp-caption alignnone">
+#### An LA Christmas<figure id="attachment_539"  class="">
 
-[<img class="wp-image-539 size-large" src="http://mindyhuang.me/wp-content/uploads/final-1-1024x582.png" alt="My raytracer project for CS148 - Intro to Graphics." width="474" height="269" srcset="http://mindyhuang.me/wp-content/uploads/final-1-150x85.png 150w, http://mindyhuang.me/wp-content/uploads/final-1-1024x582.png 1024w" sizes="(max-width: 474px) 100vw, 474px" />](http://mindyhuang.me/wp-content/uploads/final-1.png)<figcaption class="wp-caption-text">My raytracer project for CS148 &#8211; Intro to Graphics. Click for full-size!</figcaption></figure> 
+<figure>
+<img src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/final-1-1024x582.png" alt="My raytracer project for CS148 - Intro to Graphics." /><figcaption class="">My raytracer project for CS148 &#8211; Intro to Graphics.</figcaption>
+</figure> 
+
 
 **Inspiration**
 

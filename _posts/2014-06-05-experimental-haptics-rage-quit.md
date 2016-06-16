@@ -15,11 +15,11 @@ project: true
 ---
 A while ago, I built and programmed a [Haptic Paddle](http://mindyhuang.me/2013/11/14/my-hapkit-journey-assembly/ "My Hapkit Journey – Assembly"). I enjoyed it, and so this quarter I decided to take Experimental Haptics. It was led by a grad student who invented the [Novint Falcon](http://www.novint.com/index.php/novintfalcon "novint falcon"), low-end, 3-DOF haptic device. This was also the device we used for all our homework assignments and projects.
 
-<figure style="width: 346px" class="wp-caption aligncenter">
+<figure class="">
 
-<img src="http://www.novint.com/images/stories/Novint_rendering_full3.jpg" alt="Novint Falcon" width="346" height="224" /><figcaption class="wp-caption-text">Novint Falcon</figcaption></figure> 
+<img src="http://www.novint.com/images/stories/Novint_rendering_full3.jpg" alt="Novint Falcon"/><figcaption class="">Novint Falcon</figcaption>
+</figure> 
 
-&nbsp;
 
 The class took us through the theory as well as the practice of programming haptic devices &#8211; from workspaces to fast collision detection to modelling haptic feedback. My partner and I decided to base our final project on the theme Rage Quit, after a particularly frustrating debugging session on one of the homework assignments.
 
