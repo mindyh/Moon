@@ -8,6 +8,8 @@ comments: false
 tags: [about]
 ---
 
+Under construction, excuse the mess.
+
 <img class="alignnone wp-image-310 " src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/stanford_engineering.png" />
 
 <a width="66" height="122"  title="Projects" href="http://mindyhuang.me/projects/"><img class="alignnone wp-image-202" src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/robot_black.png" alt="I build robots." /></a>   

@@ -5,7 +5,7 @@ comments: false
 ---
 A list of my technical projects through the years, with links as available.
 
- * **Attributing Art to Artists: Who Drew It?** (_Spring 2016_) &#8211; A project for a Computer Vision class - using computer vision to extract features, we ran classifiers to attempt to identify whether or not a piece belonged in an artist's gallery, logistic regression gave F1 score of 0.81. Writeup will happen(_?_) (_Python, OpenCV_)
+ * **[Attributing Art to Artists: Who Drew It?](https://github.com/mindyh/mindyh.github.io/raw/master/assets/docs/cs231a-final-project.pdf)** (_Spring 2016_) &#8211; A project for a Computer Vision class - using computer vision to extract features, we ran classifiers to attempt to identify whether or not a piece belonged in an artist's gallery, logistic regression gave F1 score of 0.81. Writeup will happen(_?_) (_Python, OpenCV, scikit-learn_)
 
  * **Protect the Tanto:VR** (_Fall 2015_) &#8211; a simple reflex game for Cardboard. Writeup will happen(_?_) （_Unity for Cardboard_)
 
@@ -25,7 +25,7 @@ A list of my technical projects through the years, with links as available.
 
   * **DreamConnect** (_2013 &#8211; 2014_) &#8211; A web app to connect immigrant students with mentors. I write and manage the backend functionality. Features include user authentication, saving profiles, messaging and email, searching for other users, and an administration. Developed with the Haas Center for public service. (_Ruby on Rails_)
 
-  * **<a href="/HuangLing-OptimizingPublicTransit.pdf" target="_blank">Optimizing Public Transit</a>** (_Fall 2013_) &#8211; A project for my machine learning class. Given data on a city&#8217;s demographics, shops, etc., find the optimal locations to place stations for a light rail transit system. Read the report <a title="CS229 Final Report" href="/downloads/HuangLing-OptimizingPublicTransit.pdf" target="_blank">here</a>. (_Matlab, Python, Machine Learning_)
+  * **[Optimizing Public Transit](https://github.com/mindyh/mindyh.github.io/raw/master/assets/docs/HuangLing-OptimizingPublicTransit.pdf)** (_Fall 2013_) &#8211; A project for my machine learning class. Given data on a city&#8217;s demographics, shops, etc., find the optimal locations to place stations for a light rail transit system. (_Matlab, Python, Machine Learning_)
 
   * **[Hapkit](/my-hapkit-journey-assembly/) **(_Fall 2013_) &#8211; built and programmed a [Haptic Paddle](_http://hapkit.stanford.edu/) for an online no-credit class (_Introduction to Haptics_). (_Arduino_)
 

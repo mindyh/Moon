@@ -12,7 +12,7 @@ tags:
   - coding
 comments: true
 ---
-A while ago, I built and programmed a [Haptic Paddle](http://mindyhuang.me/2013/11/14/my-hapkit-journey-assembly/ "My Hapkit Journey – Assembly"). I enjoyed it, and so this quarter I decided to take Experimental Haptics. It was led by a grad student who invented the [Novint Falcon](http://www.novint.com/index.php/novintfalcon "novint falcon"), low-end, 3-DOF haptic device. This was also the device we used for all our homework assignments and projects.
+A while ago, I built and programmed a [Haptic Paddle](/my-hapkit-journey-assembly/ "My Hapkit Journey – Assembly"). I enjoyed it, and so this quarter I decided to take Experimental Haptics. It was led by a grad student who invented the [Novint Falcon](http://www.novint.com/index.php/novintfalcon "novint falcon"), low-end, 3-DOF haptic device. This was also the device we used for all our homework assignments and projects.
 
 <figure class="">
 
@@ -28,4 +28,4 @@ Through this project, I learned that I enjoy learning and creating mathematical 
 
 All in all, this was a really fun (albeit frustrating and time consuming) class. I learned a lot, and enjoyed playing with the Falcon immensely.
 
-[My abstract for this project.](/wp-content/uploads/Abstract_Mindy_Huang_Ben-han_Sung.pdf "Haptics Abstract")
+[My abstract for this project.](https://github.com/mindyh/mindyh.github.io/raw/master/assets/docs/ragequit.pdf)
