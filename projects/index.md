@@ -35,6 +35,6 @@ A list of my technical projects through the years, with links as available.
 
   * **StarCommand** (_Spring 2013_) &#8211; A hardware version of the mobile game Spaceteam. Built during a hackathon with technology from Electric Imp. A write up of this project will happen eventually. (_Squirrel, Javascript, PHP_)
 
-  * **[Jquery Infographic](/mbti/)**(_Winter 2013_) &#8211; An interactive infographic on the Myers-Briggs Type Indicator. (_HTML5, CSS3, JQuery_)
+  * ** [Jquery Infographic](/mbti/)**(_Winter 2013_) &#8211; An interactive infographic on the Myers-Briggs Type Indicator. (_HTML5, CSS3, JQuery_)
 
   * **Boeing Intern** (_Summer 2012_) – Wrote tools in support of a team  integrating CAD/CAM applications used on the Boeing 787. (_C#, VBScript_)

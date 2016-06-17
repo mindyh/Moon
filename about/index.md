@@ -1,6 +1,6 @@
 ---
 id: 107
-title: I think; therefore...
+title: About Me
 date: 2013-12-17T07:12:17+00:00
 author: Mindy Huang
 layout: page
@@ -8,7 +8,7 @@ comments: false
 tags: [about]
 ---
 
-# ...I build
+A picture is worth a thousand words, so here's a 10000 word article.
 
 {% capture images-build %}
     http://i416.photobucket.com/albums/pp249/KCHuang/Blog/10818405_10152806594358435_6207630468232748854_o.jpg
@@ -16,18 +16,6 @@ tags: [about]
 {% endcapture %}
 
 {% include gallery images=images-build cols=2 %}
-
-
-# ...I explore
-
-{% capture images-travel %}
-	http://i416.photobucket.com/albums/pp249/KCHuang/Blog/1452267_10202185746916050_1803997347634375298_n.jpg
-	http://i416.photobucket.com/albums/pp249/KCHuang/Blog/887088_509175135784855_123642210_o.jpg
-{% endcapture %}
-{% include gallery images=images-travel cols=1 %}
-
-
-# ...I make art
 
 {% capture images-art %}
 	http://i416.photobucket.com/albums/pp249/KCHuang/Blog/13244886_1399738160039967_9008844896564659491_n.jpg
@@ -37,10 +25,7 @@ tags: [about]
 	http://i416.photobucket.com/albums/pp249/KCHuang/Blog/12633586_10205169643831608_4166273206412816688_o.jpg
 {% endcapture %}
 {% include gallery images=images-art cols=2 %}
-<!-- {% include gallery images=images-art2 cols=1 %} -->
-
-
-# ...I make war
+{% include gallery images=images-art2 cols=1 %}
 
 Actually I'm not a very contentious person. But it rhymed and I appreciate that :)
 
