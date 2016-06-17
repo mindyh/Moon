@@ -29,15 +29,15 @@ tags: [about]
 
 # ...I make art
 
-<!-- {% capture images-art %}
+{% capture images-art %}
 	http://i416.photobucket.com/albums/pp249/KCHuang/Blog/13244886_1399738160039967_9008844896564659491_n.jpg
 	http://i416.photobucket.com/albums/pp249/KCHuang/Blog/12496499_10205446572954663_4635184459792717522_o.jpg
-{% endcapture %} -->
+{% endcapture %}
 {% capture images-art2 %}
 	http://i416.photobucket.com/albums/pp249/KCHuang/Blog/12633586_10205169643831608_4166273206412816688_o.jpg
 {% endcapture %}
-<!-- {% include gallery images=images-art cols=2 %} -->
-{% include gallery images=images-art2 cols=1 %}
+{% include gallery images=images-art cols=2 %}
+<!-- {% include gallery images=images-art2 cols=1 %} -->
 
 
 # ...I make war
