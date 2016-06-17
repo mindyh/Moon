@@ -5,8 +5,8 @@ description:        "Projects and musings. Stories from my [un]professional life
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/self-portrait.jpg'
-background:         'assets/img/ronin.jpg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
+background:         'assets/img/ronin-wide.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://mindyhuang.me
 
