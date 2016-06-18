@@ -19,7 +19,7 @@ http://i416.photobucket.com/albums/pp249/KCHuang/Blog/150106_2227_DSC_8733.jpg
 http://i416.photobucket.com/albums/pp249/KCHuang/Blog/150106_2226_DSC_8699.jpg
 {% endcapture %}
 
-{% include gallery images=images cols=1 %}
+{% include gallery images=images cols=2 %}
 
 <span class="fbPhotoCaptionText">Photo credits to my good friends Jeff Barrera and Arun Kulshreshtha. Thanks for coming out and wandering around campus with me at 1AM!</span>
 
