@@ -19,7 +19,7 @@ I never was terribly interested in graphics but needed this course for my degre
 #### An LA Christmas<figure id="attachment_539"  class="">
 
 <figure>
-<img src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/final-1-1024x582.png" alt="My raytracer project for CS148 - Intro to Graphics." /><figcaption class="">My raytracer project for CS148 &#8211; Intro to Graphics.</figcaption>
+<img src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/final-1.png" alt="My raytracer project for CS148 - Intro to Graphics." /><figcaption class="">My raytracer project for CS148 &#8211; Intro to Graphics.</figcaption>
 </figure> 
 
 
