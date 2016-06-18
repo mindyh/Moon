@@ -14,9 +14,9 @@ comments: true
 Remember 4 months ago when I said I wanted to do a cosplay? Well I have a bad habit of brainstorming projects but not actually doing them. This time though, this time it actually happened.
 
 {% capture images %} 
+http://i416.photobucket.com/albums/pp249/KCHuang/Blog/150106_2226_DSC_8699.jpg
 http://i416.photobucket.com/albums/pp249/KCHuang/Blog/150106_2232_10648965_10202670257428510_4050205268453860849_o.jpg
 http://i416.photobucket.com/albums/pp249/KCHuang/Blog/150106_2227_DSC_8733.jpg
-http://i416.photobucket.com/albums/pp249/KCHuang/Blog/150106_2226_DSC_8699.jpg
 {% endcapture %}
 
 {% include gallery images=images cols=2 %}
