@@ -18,9 +18,11 @@ Well, today is Fourth of July Eve, which apparently is considered a holiday at G
 
 I was all set to go to work on a holiday, when I recalled that Stanford also had a free 3D printer somewhere. After poking around a bit, I found the ](http://acomp.stanford.edu/createspace/ "createspace") in Meyer library, complete with a 3D printer, a 3D scanner, a humungous graphic design tablet and an Arduino station. So I&#8217;m currently sitting not at Google, but at Meyer, watching the MakerBot Replicator2 do its thing.
   
-[<img class="alignnone size-full" title="wp-1404440033375" src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/wpid-wp-1404440033375.jpeg" alt="image" />](http://s416.photobucket.com/albums/pp249/KCHuang/Blog/wpid-wp-1404440033375.jpeg)
+{% capture images %} 
+http://s416.photobucket.com/albums/pp249/KCHuang/Blog/wpid-wp-1404440033375.jpeg http://s416.photobucket.com/albums/pp249/KCHuang/Blog/2014-07-03.jpg http://s416.photobucket.com/albums/pp249/KCHuang/Blog/IMAG0332.jpg
+{% endcapture %}
 
-<img class="alignnone  wp-image-267" src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/2014-07-03-150x84.jpg" alt="2014-07-03" width="245" height="137" />  <img class="alignnone  wp-image-268" src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/IMAG0332-150x84.jpg" alt="IMAG0332" width="245" height="137" />
+{% include gallery images=images cols=2 %}
 
 This is my first time 3D printing anything, so it took a bit of reading manuals and trial and error to get things working. But MakerBot really outdid itself with how user friendly its products are!
 
