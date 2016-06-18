@@ -16,7 +16,7 @@ the Garage &#8211; Google&#8217;s very own makerspace! They have CNC machines, s
 
 Well, today is Fourth of July Eve, which apparently is considered a holiday at Google. I decided to go into the office anyways, but not to work &#8211; to learn how to use the 3D printer.
 
-I was all set to go to work on a holiday, when I recalled that Stanford also had a free 3D printer somewhere. After poking around a bit, I found the ](http://acomp.stanford.edu/createspace/ "createspace") in Meyer library, complete with a 3D printer, a 3D scanner, a humungous graphic design tablet and an Arduino station. So I&#8217;m currently sitting not at Google, but at Meyer, watching the MakerBot Replicator2 do its thing.
+I was all set to go to work on a holiday, when I recalled that Stanford also had a free 3D printer somewhere. After poking around a bit, I found the [createspace](http://acomp.stanford.edu/createspace/) in Meyer library, complete with a 3D printer, a 3D scanner, a humungous graphic design tablet and an Arduino station. So I&#8217;m currently sitting not at Google, but at Meyer, watching the MakerBot Replicator2 do its thing.
   
 {% capture images %} 
 http://s416.photobucket.com/albums/pp249/KCHuang/Blog/wpid-wp-1404440033375.jpeg http://s416.photobucket.com/albums/pp249/KCHuang/Blog/2014-07-03.jpg http://s416.photobucket.com/albums/pp249/KCHuang/Blog/IMAG0332.jpg
