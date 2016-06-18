@@ -74,10 +74,10 @@ A tetromino is a block in the Tetris game (for example, a line block or a square
 
 <figure id="attachment_456" class="">
 
-<img src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/tetrimino_plan-300x206.png" alt="tetrimino_plan"/><figcaption class="">The original idea for 3D tetrominos made before the idea was scrapped.</figcaption>
+<img src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/tetrimino_plan.png" alt="tetrimino_plan"/><figcaption class="">The original idea for 3D tetrominos made before the idea was scrapped.</figcaption>
 </figure> 
 
-<figure id="attachment_437" class=""><img src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/block_assembly-300x169.jpg" alt="block_assembly" /><figcaption class="">Block assembly, the night before the project was due. Ralph and Spencer, the other two members of my team.</figcaption>
+<figure id="attachment_437" class=""><img src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/block_assembly.jpg" alt="block_assembly" /><figcaption class="">Block assembly, the night before the project was due. Ralph and Spencer, the other two members of my team.</figcaption>
 </figure> 
 
 However, testing with the end-effector showed us that the 3-D blocks we wanted were too heavy for the electromagnet to hold up reliably. Therefore, we made a last-minute adjustment and instead decided to have 2-D blocks, which would be significantly lighter.
@@ -93,7 +93,7 @@ We used a python script (a modified version of Tetromino.py) to keep track of ga
 
 <figure id="attachment_451" class="">
 
-<img class="" src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/pickup1-768x1024.jpg" alt="pickup1" /><figcaption class="">Coupling between the joints made picking up pieces harder than we anticipated. We made sure to use an extra compliant surface.</figcaption>
+<img class="" src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/pickup1.jpg" alt="pickup1" /><figcaption class="">Coupling between the joints made picking up pieces harder than we anticipated. We made sure to use an extra compliant surface.</figcaption>
 </figure> 
 
 
@@ -130,7 +130,7 @@ Another difficulty we ran into was that the coupling between the joints did not 
 
 <figure id="attachment_441" class="">
 
-<img class="wp-image-441 size-large" src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/pane-768x1024.jpg" alt="pane"/><figcaption class="">Gameboard. We found and built it the morning the project was due.</figcaption>
+<img class="wp-image-441 size-large" src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/pane.jpg" alt="pane"/><figcaption class="">Gameboard. We found and built it the morning the project was due.</figcaption>
 </figure> 
 
 
@@ -142,5 +142,5 @@ Our gameboard was a clear acrylic pane held upright by two metal poles. We stuck
 In class, we learned about the theory of working with a robot. Through this project, we applied these concepts to a real-life industrial arm. We gained valuable experience addressing compliance issues, recognizing potential singularities, and simply dealing with a real robot. Given the time, we would have liked to add in some computer vision, so that the robot could recognize which piece it was picking up (to avoid needing to calibrate beforehand), and so that the robot could see its current position on the gameboard (instead of blindly following pre-calibrated coordinates). And most importantly, we spent hours of class time playing tetris.
 <figure id="attachment_440" class="">
 
-<img class="wp-image-440 size-large" src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/mindy_robot1-768x1024.jpg" alt="mindy_robot" /><figcaption class="">Me, attaching the end-effector.</figcaption>
+<img class="wp-image-440 size-large" src="http://s416.photobucket.com/albums/pp249/KCHuang/Blog/mindy_robot1.jpg" alt="mindy_robot" /><figcaption class="">Me, attaching the end-effector.</figcaption>
 </figure> 
