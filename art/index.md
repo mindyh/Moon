@@ -10,7 +10,7 @@ I am a student artist, self-studying hard to get a little bit better.
 #### Follow my progress:
 
 * [deviantArt](http://kchuang.deviantart.com)
-* [Instagram](www.instagram.com/kchuangart)
+* [Instagram](http://www.instagram.com/kchuangart)
 * [tumblr](http://kchuangart.tumblr.com)
 &nbsp;
 
