@@ -322,50 +322,50 @@ function populateArrs() {
 	/* function info */
 	 symbolArr[0] = 'Se';
 	 functionNameArr[0] = 'Extroverted Sensing';
-	 descArr[0] = 'Experience the immediate situation';
-	 exampleArr[0] = 'The fence is 6 ft tall, made of plywood, etc.';
+	 descArr[0] = 'Sensation - What\'s happening in the moment?';
+	 exampleArr[0] = 'The fence is 6 ft tall, painted white, etc.';
 	 processArr[0] = 'sensing';
 	 
 	 symbolArr[1] = 'Fi';
 	 functionNameArr[1] = 'Introverted Feeling';
-	 descArr[1] = 'Decide whether something is significant to you';
-	 exampleArr[1] = 'I play ball a lot, the fence will be a problem';
+	 descArr[1] = 'Authenticity - What feels right to me?';
+	 exampleArr[1] = 'I personally believe in a No-Fence policy.';
 	 processArr[1] = 'judging';
 	 
 	 symbolArr[2] = 'Te';
 	 functionNameArr[2] = 'Extroverted Thinking';
-	 descArr[2] = 'Decide whether something is works or not';
-	 exampleArr[2] = 'The fence won\'t keep out burglars';
+	 descArr[2] = 'Effectiveness - Does it work?';
+	 exampleArr[2] = 'Doesn\'t matter, the fence won\'t keep me out.';
 	 processArr[2] = 'judging';
 	 
 	 symbolArr[3] = 'Ni';
 	 functionNameArr[3] = 'Introverted iNtuition';
-	 descArr[3] = 'Synthesizing ideas to extract a pattern ';
-	 exampleArr[3] = 'They are protective of their property';
+	 descArr[3] = 'Perspectives - What\'s the meta here?';
+	 exampleArr[3] = 'They must be protective of their property.';
 	 processArr[3] = 'sensing';
 	 
 	 symbolArr[4] = 'Si';
 	 functionNameArr[4] = 'Introverted Sensing';
-	 descArr[4] = 'Remembering past experiences';
-	 exampleArr[4] = 'I once fell off a fence...';
+	 descArr[4] = 'Memory - How was this is the past? What\'s changed?';
+	 exampleArr[4] = 'This fence is slightly taller than fences I\'ve seen before.';
 	 processArr[4] = 'sensing';
 	 
 	 symbolArr[5] = 'Fe';
 	 functionNameArr[5] = 'Extroverted Feeling';
-	 descArr[5] = 'Decide if something is acceptable to others';
-	 exampleArr[5] = 'Kids that play catch might lose their ball';
+	 descArr[5] = 'Harmony - How can I meet everyone\'s needs?';
+	 exampleArr[5] = 'The kids must be sad to have their favorite play area fenced off.';
 	 processArr[5] = 'judging';
 	 
 	 symbolArr[6] = 'Ti';
 	 functionNameArr[6] = 'Introverted Thinking';
-	 descArr[6] = 'Evaluating data and fitting it into existing models ';
-	 exampleArr[6] = 'The fence is taller than fences usually are';
+	 descArr[6] = 'Accuracy - Does it make sense to me?';
+	 exampleArr[6] = 'People who live here shouldn\'t need fences.';
 	 processArr[6] = 'judging';
 	 
 	 symbolArr[7] = 'Ne';
 	 functionNameArr[7] = 'Extroverted iNtuition';
-	 descArr[7] = 'Interpreting situations, what things may imply';
-	 exampleArr[7] = 'They want to keep people off their yard';
+	 descArr[7] = 'Exploration - What are the possibilties?';
+	 exampleArr[7] = 'What if we took the fence and added a gate and painted it yellow and...';
 	 processArr[7] = 'sensing';	 
 	 
 	 
