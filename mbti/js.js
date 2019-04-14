@@ -322,49 +322,49 @@ function populateArrs() {
 	/* function info */
 	 symbolArr[0] = 'Se';
 	 functionNameArr[0] = 'Extroverted Sensing';
-	 descArr[0] = 'Sensation - What\'s happening in the moment?';
+	 descArr[0] = 'What\'s happening in the moment?';
 	 exampleArr[0] = 'The fence is 6 ft tall, painted white, etc.';
 	 processArr[0] = 'sensing';
 	 
 	 symbolArr[1] = 'Fi';
 	 functionNameArr[1] = 'Introverted Feeling';
-	 descArr[1] = 'Authenticity - What feels right to me?';
+	 descArr[1] = 'What feels right to me?';
 	 exampleArr[1] = 'I personally believe in a No-Fence policy.';
 	 processArr[1] = 'judging';
 	 
 	 symbolArr[2] = 'Te';
 	 functionNameArr[2] = 'Extroverted Thinking';
-	 descArr[2] = 'Effectiveness - Does it work?';
+	 descArr[2] = 'Does it work?';
 	 exampleArr[2] = 'Doesn\'t matter, the fence won\'t keep me out.';
 	 processArr[2] = 'judging';
 	 
 	 symbolArr[3] = 'Ni';
 	 functionNameArr[3] = 'Introverted iNtuition';
-	 descArr[3] = 'Perspectives - What\'s the meta here?';
+	 descArr[3] = 'What\'s the meta here?';
 	 exampleArr[3] = 'They must be protective of their property.';
 	 processArr[3] = 'sensing';
 	 
 	 symbolArr[4] = 'Si';
 	 functionNameArr[4] = 'Introverted Sensing';
-	 descArr[4] = 'Memory - How was this is the past? What\'s changed?';
+	 descArr[4] = 'How was this in the past? What\'s changed?';
 	 exampleArr[4] = 'This fence is slightly taller than fences I\'ve seen before.';
 	 processArr[4] = 'sensing';
 	 
 	 symbolArr[5] = 'Fe';
 	 functionNameArr[5] = 'Extroverted Feeling';
-	 descArr[5] = 'Harmony - How can I meet everyone\'s needs?';
+	 descArr[5] = 'How can I meet everyone\'s needs?';
 	 exampleArr[5] = 'The kids must be sad to have their favorite play area fenced off.';
 	 processArr[5] = 'judging';
 	 
 	 symbolArr[6] = 'Ti';
 	 functionNameArr[6] = 'Introverted Thinking';
-	 descArr[6] = 'Accuracy - Does it make sense to me?';
+	 descArr[6] = 'Does it make sense to me?';
 	 exampleArr[6] = 'People who live here shouldn\'t need fences.';
 	 processArr[6] = 'judging';
 	 
 	 symbolArr[7] = 'Ne';
 	 functionNameArr[7] = 'Extroverted iNtuition';
-	 descArr[7] = 'Exploration - What are the possibilties?';
+	 descArr[7] = 'What are the possibilties?';
 	 exampleArr[7] = 'What if we took the fence and added a gate and painted it yellow and...';
 	 processArr[7] = 'sensing';	 
 	 
